@@ -21,3 +21,11 @@ React Native 实战开发教程
     - Android Studio
 5. 创建项目并介绍目录结构
 
+
+第二课
+-----
+
+1. 按照其它所需依赖
+2. 在模拟器里运行
+3. 介绍 React Native 视图结构
+4. 介绍 React 开发视图组件
