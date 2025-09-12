@@ -24,3 +24,21 @@ export const Colors = {
     tabIconSelected: tintColorDark,
   },
 };
+
+export const BgColors = [
+  'white',
+  'black',
+  'red',
+  'green',
+  'blue',
+  'yellow',
+  'purple',
+  'pink',
+  'gray',
+  'orange',
+  'teal',
+  'cyan',
+  'indigo',
+  'lime',
+  'emerald',
+]
