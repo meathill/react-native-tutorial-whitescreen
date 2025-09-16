@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "whitescreen-tutorial",
-    "slug": "whitescreen-tutorial",
+    "slug": "whitescreen",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -9,7 +9,11 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.meathill.whitescreentutorial",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -38,6 +42,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "14ec0f3d-d26b-4fa6-b287-b751333baeee"
+      }
+    },
+    "owner": "meathill"
   }
 }
