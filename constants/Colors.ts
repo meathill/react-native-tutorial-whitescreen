@@ -40,5 +40,4 @@ export const BgColors = [
   'cyan',
   'indigo',
   'lime',
-  'emerald',
 ]
